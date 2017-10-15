@@ -8,7 +8,7 @@ git add *.txt
 git add *.sh
 git add *.xcf
 git commit -m "coupons"
-git pus origin master
+git push origin master
 
 clear
 
